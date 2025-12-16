@@ -1,0 +1,1 @@
+# Root output configuration
